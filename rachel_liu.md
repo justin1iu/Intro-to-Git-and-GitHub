@@ -1,0 +1,2 @@
+# Rachel Liu
+Hi! My name is Rachel Liu. I'm a senior studying biology with a minor in French. I am originally from upstate New York, near Albany. Outside of class, I am a photo editor for the _Tufts Daily_ and a member of a cardiovascular research lab at the Tufts Medical Center. Some of my hobbies are cooking/baking, reading, and exploring Boston. I'm taking this class because my friend recommended it from a previous semester and I wanted to learn Python. 
