@@ -1,0 +1,3 @@
+# Linh Nguyen
+
+Hi! My name is Linh and I'm a 3rd year combined degree student majoring in Computer Science and Studio Art (but I'm saving my last studio classes for my senior years so currently I'm not taking any of them :>). I have only used Python for Leetcode before (they are practice problems to prepare for technical interviews), so I'm really excited to learn using Python in other context in this class.
